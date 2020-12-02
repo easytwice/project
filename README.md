@@ -1,2 +1,2 @@
 # project
-progect-geekbrains
+project-geekbrains
